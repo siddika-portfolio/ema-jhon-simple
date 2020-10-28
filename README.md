@@ -19,7 +19,7 @@
 - Firebase Auth
 
 
-### `Usage Technology:`
+### `Usage Tools:`
 
 - Heroku
 - Firebase Hosting
