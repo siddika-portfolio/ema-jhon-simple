@@ -2,7 +2,6 @@
 
 ## A full e-commerce site
 
-In the project directory, you can run:
 
 ### It has an array of fakeData with a few components
 
